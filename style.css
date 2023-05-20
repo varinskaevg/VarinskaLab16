@@ -1,0 +1,47 @@
+body{
+    background: url("image/fon.jpg");
+}
+img{
+    height: 300px;
+    width: 200px;
+    box-shadow: 0px 0px 5px 5px blue;
+    margin: 10px;
+}
+.conteiner{
+    text-align: center;
+}
+a{
+    color: blue;
+}
+.demo{
+    color: red;
+    font-weight: bold;
+}
+.par{
+    color: pink;
+    font-weight: bold;
+}
+.par:hover{
+    color: lime;
+}
+.yes {
+    border: 4px solid #00aa00;
+    outline: 1px solid black;
+}
+.no {
+    border: 4px solid red;
+    outline: 1px solid black;
+}
+.divs{
+    height: 10vh;
+    width: 25vw;
+    border: 1px solid black;
+    margin: 10px auto;
+}
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: #00aa00;
+}
